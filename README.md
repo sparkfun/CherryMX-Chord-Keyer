@@ -2,7 +2,7 @@
 
 One-handed text entry device based on the SparkFun Pro Micro and the Cherry MX Blue.
 
-3D Models - Contains keys and enclosure for 3D printing
+3D Models - Contains keys and enclosure for 3D printing <br>
 Firmware - Contains Arduino Sketch
 
 Check out the video here: https://www.youtube.com/watch?v=GGNV3bmZrdg <br> <br>
